@@ -1,5 +1,5 @@
 # Cloud-Init-Proxmox
-Shell Script para criação de maquinas em PVE utilizando Cloud-Init e Shell Script
+Shell Script para criação de maquinas virtuais em PVE utilizando Cloud-Init e Shell Script
 
 **Importante:** este é um trabalho em andamento.
 
