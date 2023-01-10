@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 # Download da imagem (Sua escolha) 
 wget https://cdimage.debian.org/cdimage/cloud/bullseye/20221219-1234/debian-11-genericcloud-amd64-20221219-1234.qcow2
